@@ -1,0 +1,5 @@
+username = input("Enter username:")
+print("Username is: " + username)
+age = input("Enter your age:")
+print("Age is:" + age)
+print("You will turn 100 in 2092")
